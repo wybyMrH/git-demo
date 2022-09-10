@@ -7,5 +7,6 @@ public class Test01 {
         System.out.println("Hello by hot-fix");
         System.out.println("second modify by hot-fix");
         System.out.println("Hello by master1");
+        System.out.println("Edit by github");
     }
 }
