@@ -8,5 +8,6 @@ public class Test01 {
         System.out.println("second modify by hot-fix");
         System.out.println("Hello by master1");
         System.out.println("Edit by github");
+        System.out.println("push to Gitee");
     }
 }
